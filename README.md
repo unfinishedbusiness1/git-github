@@ -1,2 +1,2 @@
 # git-github
-Practicing Git and GIthub
+Practicing Git and Github
